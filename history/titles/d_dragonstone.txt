@@ -1,0 +1,10 @@
+# e_westeros
+500.1.1={
+	law = true_cognatic_succession
+	law = succ_primogeniture
+	law = status_of_women_4
+}
+5000.1.1={
+	liege=k_the_dusklands
+}
+6560.1.1={holder=1740}

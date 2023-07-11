@@ -1,0 +1,17 @@
+# c_whitewatch
+
+# County Title
+title = c_whitewatch
+
+# Settlements
+max_settlements = 3
+
+b_whitewatch = tribal
+#b_whitewatch_2 = city
+#b_whitewatch_3 = temple
+
+# Misc
+culture = hartenn
+religion = the_seven_beyond
+terrain = arctic
+#History

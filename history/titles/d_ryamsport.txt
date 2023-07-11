@@ -1,0 +1,4 @@
+6555.1.1 = {
+	liege = k_the_mander
+	holder = 21061
+}

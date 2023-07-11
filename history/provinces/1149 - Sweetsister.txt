@@ -1,0 +1,19 @@
+# c_sweetsister
+
+# County Title
+title = c_sweetsister
+
+# Settlements
+max_settlements = 3
+
+b_sweetsister = castle
+b_sweet_temple = temple
+#b_sweetsister_2 = temple
+
+# Misc
+culture = sistermen
+religion = the_seven terrain = hills
+#History
+7000.1.1 = {
+	religion = the_seven
+}

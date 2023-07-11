@@ -1,0 +1,11 @@
+# e_westeros
+500.1.1={
+	law = agnatic_succession
+	law = succ_primogeniture
+}
+
+6560.1.1={holder=676} # ELDON
+6598.1.1={holder=680} # TARBECK
+6609.1.1={holder=0} # UNKNOWN
+}
+

@@ -1,0 +1,9 @@
+# e_westeros
+500.1.1={
+	law = agnatic_succession
+	law = succ_primogeniture
+}
+6525.1.1={holder=1129} #Oberyn[531]
+6547.06.08={holder=1132} #Bedwyck[531]
+6580.9.3={holder=0} # Unknown
+800.1.1={liege=k_sunspear}
